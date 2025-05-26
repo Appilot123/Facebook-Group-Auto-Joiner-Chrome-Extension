@@ -1,5 +1,14 @@
 <h1 align="center">FaceBook Group Auto Joiner Chrome Extension</h1>
 
+## Project Overview:
+This lightweight Chrome extension automates the process of joining Facebook groups by simply inputting group names—saving users hours of repetitive clicking. Designed primarily for marketers, community builders, and outreach specialists, it helps streamline group-based growth tactics on Facebook. While simple in design, the tool addresses the key pain point of bulk group joining without manual effort.
+
+
+## Core Features:
+- **Fast & Hands-Free:** Automates group-joining flows from search to request submission—zero manual effort needed.
+- **Stealth Browser Behavior:** Mimics human-like actions (scroll delays, randomized clicks) to avoid triggering Facebook's anti-bot detection.
+- **Extension-Based Convenience:** No software installation or proxies required—just plug and run inside Chrome.
+
 <div align="center">
   <img
     src="https://github.com/user-attachments/assets/d200549d-7613-446f-a43b-19a4117ca360"
@@ -63,16 +72,7 @@
 
 <div align="left">
 
-## Project Overview:
-This lightweight Chrome extension automates the process of joining Facebook groups by simply inputting group names—saving users hours of repetitive clicking. Designed primarily for marketers, community builders, and outreach specialists, it helps streamline group-based growth tactics on Facebook. While simple in design, the tool addresses the key pain point of bulk group joining without manual effort.
-
-
-## Core Features:
-- **Fast & Hands-Free:** Automates group-joining flows from search to request submission—zero manual effort needed.
-- **Stealth Browser Behavior:** Mimics human-like actions (scroll delays, randomized clicks) to avoid triggering Facebook's anti-bot detection.
-- **Extension-Based Convenience:** No software installation or proxies required—just plug and run inside Chrome.
-
-## Features
+## Features List:
 | Feature                 | Description                                                           |
 | ----------------------- | --------------------------------------------------------------------- |
 | Group Name Input        | Enter a list of Facebook group names to target for joining.           |
